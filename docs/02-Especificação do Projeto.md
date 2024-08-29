@@ -253,3 +253,6 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-EduSync/assets/90160227/9eed8b06-0b74-432d-89a1-2944658666aa)
 
+
+
+![Diagrama de caso de uso violência](https://github.com/user-attachments/assets/f1f41640-0a7e-4313-a9e6-9d5d0f3e76ba)
