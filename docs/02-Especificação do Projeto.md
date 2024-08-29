@@ -255,4 +255,3 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 
 
 
-![Diagrama de caso de uso violência](https://github.com/user-attachments/assets/f1f41640-0a7e-4313-a9e6-9d5d0f3e76ba)
